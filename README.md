@@ -1,4 +1,4 @@
-This contains all my academic projects.
+This repository contains all my academic projects.
 
 ## [Project 1 : Stock Market Prediction & Portfolio Optimization : Project Overview](https://github.com/shalininayak/academic_projects/blob/main/Stock%20Market%20Prediction%20%26%20Portfolio%20Optimization.ipynb)
 * This project has been made as an attempt to do stock market predictions using Machine Learning algorithms, aiming to know a stock future value for an investor's profit.
