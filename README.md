@@ -1,4 +1,4 @@
-# academic_projects
+# ACADEMIC PROJECTS
 This contains all my academic projects.
 
 1.Stock Market Prediction & Portfolio Optimization : 
