@@ -1,4 +1,4 @@
-This repository contains all my academic projects.
+This repository contains all my business and data analytics projects.
 
 ## [Stock Market Prediction & Analysis + Portfolio Optimization : Project Overview](https://github.com/shalininayak/academic_projects/blob/main/Stock%20Market%20Prediction%20%26%20Portfolio%20Optimization.ipynb)
 * This project has been made as an attempt to do stock market predictions using Machine Learning algorithms, aiming to know a stock future value for an investor's profit. The project contains detailed business and data analysis: Data Extraction->Data Cleaning->Exponential Data Analysis->Modelling->Prediction->Business & Financial Analysis.
